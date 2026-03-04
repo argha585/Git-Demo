@@ -1,0 +1,35 @@
+MEAN Stack
+>> M : MongoDB
+>> E : Expressjs
+>> A : Angular
+>> N : NodeJS
+
+HTML : Hyper Text Markup Language.
+CSS : Cascading Style Sheet
+JS : Java Script
+
+URL : (Uniform Resource Location)
+     
+     >> https://education.rohanAcademy.edu/Fullstak
+         
+         * https : protcol
+         * rohanAcademy : server/Domain Name
+         * education : sub Domain
+         * edu : TLD (Top Lavel Domain)
+         * Fullstak : path/Location
+
+
+protcol : 
+
+            >> Set of rules/ insturctions
+            Ex :-
+                 
+                 >> http : Hyper Text trasfer protcol
+                 >> https : Hyper Text trasfer protcol secure
+                 >> tcp : transmission cintrol protcol
+                 >> udp : user Datagram protcol
+                 >> smtp : Simple Mail Transfer protcol
+                 >> ftp : file transfer protcol
+                 >> ip : internet protcol
+
+                

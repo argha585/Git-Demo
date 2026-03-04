@@ -1,0 +1,39 @@
+Git >> version control
+v1
+v2
+v3
+New v4
+
+
+
+>> It is distribute (No could)
+>> Collaboration
+>> Tracking
+>> Recovery
+
+https://git-scm.com/install/windows
+
+GitHub
+Bitbaket
+Gitlabs
+Gitpod
+
+>> For 1st time need to configure GitHub in our syste.
+git config -- global user.name "argha585"
+git config -- global user.email "arghamaity730@gmail.com"
+
+git config -- global color.ui auto
+
+Mandatory commands:
+>> git init
+>> git rimote add origin https://github.com/argha585/Git-Demo.git
+
+git pull origin main
+
+git status
+
+
+git add .
+git status
+git commit -m "commit Massage"
+git push
